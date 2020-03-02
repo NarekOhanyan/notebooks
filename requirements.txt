@@ -1,0 +1,4 @@
+numpy
+ipywigdets
+matplotlib
+appmode
